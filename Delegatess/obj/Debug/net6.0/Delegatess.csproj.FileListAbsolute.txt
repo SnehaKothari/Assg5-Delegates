@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Delegates\Delegatess\bin\Debug\net6.0\Delegatess.deps.json
+C:\Users\Admin\source\repos\Delegates\Delegatess\bin\Debug\net6.0\Delegatess.dll
+C:\Users\Admin\source\repos\Delegates\Delegatess\bin\Debug\net6.0\Delegatess.pdb
+C:\Users\Admin\source\repos\Delegates\Delegatess\obj\Debug\net6.0\Delegatess.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Delegates\Delegatess\obj\Debug\net6.0\Delegatess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Delegates\Delegatess\obj\Debug\net6.0\Delegatess.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Delegates\Delegatess\obj\Debug\net6.0\Delegatess.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Delegates\Delegatess\obj\Debug\net6.0\Delegatess.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Delegates\Delegatess\obj\Debug\net6.0\Delegatess.dll
+C:\Users\Admin\source\repos\Delegates\Delegatess\obj\Debug\net6.0\refint\Delegatess.dll
+C:\Users\Admin\source\repos\Delegates\Delegatess\obj\Debug\net6.0\Delegatess.pdb
+C:\Users\Admin\source\repos\Delegates\Delegatess\obj\Debug\net6.0\ref\Delegatess.dll

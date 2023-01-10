@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DelegateFun/1.0.0": {
+        "dependencies": {
+          "Delegatess": "1.0.0"
+        },
+        "runtime": {
+          "DelegateFun.dll": {}
+        }
+      },
+      "Delegatess/1.0.0": {
+        "runtime": {
+          "Delegatess.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DelegateFun/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Delegatess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
